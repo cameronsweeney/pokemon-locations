@@ -485,7 +485,7 @@ map_header_bank_pointers = {
 }
 
 # table separate from map headers
-# the t to wild encounter data table
+# they point to wild encounter data table
 wild_data_pointers = {
     'red': 0xCEEB,
     'blue': 0xCEEB,
