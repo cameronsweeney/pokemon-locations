@@ -1,0 +1,27 @@
+Difference found for rate_surf on Route 6 (0x11):
+    RB 0;
+    Y 3
+Difference found for rate_surf on Route 12 (0x17):
+    RB 0;
+    Y 3
+Difference found for rate_land on Route 13 (0x18):
+    RB 20;
+    Y 15
+Difference found for rate_surf on Route 13 (0x18):
+    RB 0;
+    Y 3
+Difference found for rate_land on Viridian Forest (0x33):
+    RB 8;
+    Y 25
+Difference found for rate_land on Pokémon Tower 5F (0x92):
+    RB 10;
+    Y 15
+Difference found for rate_land on Pokémon Tower 7F (0x94):
+    RB 15;
+    Y 20
+Difference found for rate_surf on Seafoam Islands B3 (0xa1):
+    RB 0;
+    Y 5
+Difference found for rate_surf on Seafoam Islands B4 (0xa2):
+    RB 0;
+    Y 5

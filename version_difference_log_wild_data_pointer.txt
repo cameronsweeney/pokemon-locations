@@ -1,0 +1,513 @@
+Difference found for pointer_wild_data on Pallet Town (0x0):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Viridian City (0x1):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Pewter City (0x2):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cerulean City (0x3):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Lavender Town (0x4):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Vermilion City (0x5):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon City (0x6):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Fuchsia City (0x7):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cinnabar Island (0x8):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Indigo Plateau (0x9):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Saffron City (0xa):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 1 (0xc):
+    RB 53471;
+    Y 52619
+Difference found for pointer_wild_data on Route 2 (0xd):
+    RB 53493;
+    Y 52641
+Difference found for pointer_wild_data on Route 3 (0xe):
+    RB 53559;
+    Y 52707
+Difference found for pointer_wild_data on Route 4 (0xf):
+    RB 53647;
+    Y 52795
+Difference found for pointer_wild_data on Route 5 (0x10):
+    RB 53735;
+    Y 52883
+Difference found for pointer_wild_data on Route 6 (0x11):
+    RB 53757;
+    Y 52905
+Difference found for pointer_wild_data on Route 7 (0x12):
+    RB 53911;
+    Y 53099
+Difference found for pointer_wild_data on Route 8 (0x13):
+    RB 53889;
+    Y 53077
+Difference found for pointer_wild_data on Route 9 (0x14):
+    RB 53713;
+    Y 52861
+Difference found for pointer_wild_data on Route 10 (0x15):
+    RB 53845;
+    Y 53013
+Difference found for pointer_wild_data on Route 11 (0x16):
+    RB 53779;
+    Y 52947
+Difference found for pointer_wild_data on Route 12 (0x17):
+    RB 53867;
+    Y 53035
+Difference found for pointer_wild_data on Route 13 (0x18):
+    RB 54047;
+    Y 53235
+Difference found for pointer_wild_data on Route 14 (0x19):
+    RB 54069;
+    Y 53277
+Difference found for pointer_wild_data on Route 15 (0x1a):
+    RB 54091;
+    Y 53299
+Difference found for pointer_wild_data on Route 16 (0x1b):
+    RB 54113;
+    Y 53321
+Difference found for pointer_wild_data on Route 17 (0x1c):
+    RB 54135;
+    Y 53343
+Difference found for pointer_wild_data on Route 18 (0x1d):
+    RB 54157;
+    Y 53365
+Difference found for pointer_wild_data on Route 19 (0x1e):
+    RB 54267;
+    Y 53475
+Difference found for pointer_wild_data on Route 20 (0x1f):
+    RB 54267;
+    Y 53497
+Difference found for pointer_wild_data on Route 21 (0x20):
+    RB 54487;
+    Y 53757
+Difference found for pointer_wild_data on Route 22 (0x21):
+    RB 53515;
+    Y 52663
+Difference found for pointer_wild_data on Route 23 (0x22):
+    RB 54617;
+    Y 53887
+Difference found for pointer_wild_data on Route 24 (0x23):
+    RB 53669;
+    Y 52817
+Difference found for pointer_wild_data on Route 25 (0x24):
+    RB 53691;
+    Y 52839
+Difference found for pointer_wild_data on Pallet Red's House 1F (0x25):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Pallet Red's House 2F (0x26):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Pallet Blue's House (0x27):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Pallet Professor Oak's Laboratory (0x28):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Viridian Pokémon Center (0x29):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Viridian Poké Mart (0x2a):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Viridian Trainers' School (0x2b):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Viridian House (0x2c):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Viridian Gym (0x2d):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 2 Diglett's Cave Entrance (0x2e):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Viridian Forest North Gate (0x2f):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 2 House (0x30):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 2 Gate (0x31):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Viridian Forest South Gate (0x32):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Viridian Forest (0x33):
+    RB 53537;
+    Y 52685
+Difference found for pointer_wild_data on Pewter Museum 1F (0x34):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Pewter Museum 2F (0x35):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Pewter Gym (0x36):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Pewter House NE (0x37):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Pewter Poké Mart (0x38):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Pewter House SW (0x39):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Pewter Pokémon Center (0x3a):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Mt. Moon 1F (0x3b):
+    RB 53581;
+    Y 52729
+Difference found for pointer_wild_data on Mt. Moon B1 (0x3c):
+    RB 53603;
+    Y 52751
+Difference found for pointer_wild_data on Mt. Moon B2 (0x3d):
+    RB 53625;
+    Y 52773
+Difference found for pointer_wild_data on Cerulean House (Trashed) (0x3e):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cerulean House (Trade) (0x3f):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cerulean Pokémon Center (0x40):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cerulean Gym (0x41):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cerulean Bike Shop (0x42):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cerulean Poké Mart (0x43):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Mt. Moon Pokémon Center (0x44):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 5 Gate (0x46):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 5 Underground Path Entrance (0x47):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 5 Day Care (0x48):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 6 Gate (0x49):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 6 Underground Path Entrance (0x4a):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 7 Gate (0x4c):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 7 Underground Path Entrance (0x4d):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 8 Gate (0x4f):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 8 Underground Path Entrance (0x50):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Rock Tunnel Pokémon Center (0x51):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Rock Tunnel 1F (0x52):
+    RB 53801;
+    Y 52969
+Difference found for pointer_wild_data on Power Plant (0x53):
+    RB 54595;
+    Y 53865
+Difference found for pointer_wild_data on Route 11 Gate 1F (0x54):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 11 Diglett's Cave Entrance (0x55):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 11 Gate 2F (0x56):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 12 Gate 1F (0x57):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 25 Bill's House (0x58):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Vermilion Pokémon Center (0x59):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Vermilion Pokémon Fan Club (0x5a):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Vermilion Poké Mart (0x5b):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Vermilion Gym (0x5c):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Vermilion House SE (0x5d):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Vermilion Dock (0x5e):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on S.S. Anne 1F Corridor (0x5f):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on S.S. Anne 2F Corridor (0x60):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on S.S. Anne Corridor to Deck (0x61):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on S.S. Anne B1 Corridor (0x62):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on S.S. Anne Deck (0x63):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on S.S. Anne Kitchen (0x64):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on S.S. Anne Captain's Room (0x65):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on S.S. Anne 1F Rooms (0x66):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on S.S. Anne 2F Rooms (0x67):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on S.S. Anne B1 Rooms (0x68):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Victory Road 1F (0x6c):
+    RB 54683;
+    Y 53953
+Difference found for pointer_wild_data on Indigo Plateau Lance's Room (0x71):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Indigo Plateau Hall of Fame Room (0x76):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Underground Path (N/S) (0x77):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Indigo Plateau Champion's Room (0x78):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Underground Path (W/E) (0x79):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Department Store 1F (0x7a):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Department Store 2F (0x7b):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Department Store 3F (0x7c):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Department Store 4F (0x7d):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Department Store Roof (0x7e):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Department Store Elevator (0x7f):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Mansion 1F (0x80):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Mansion 2F (0x81):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Mansion 3F (0x82):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Mansion Rooftop (0x83):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Mansion Rooftop Room (0x84):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Pokémon Center (0x85):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Gym (0x86):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Game Corner (0x87):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Department Store 5F (0x88):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Game Corner Prize Exchange (0x89):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Diner (0x8a):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon House (0x8b):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Celadon Hotel (0x8c):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Lavender Pokémon Center (0x8d):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Pokémon Tower 1F (0x8e):
+    RB 53933;
+    Y 53121
+Difference found for pointer_wild_data on Pokémon Tower 2F (0x8f):
+    RB 53935;
+    Y 53123
+Difference found for pointer_wild_data on Pokémon Tower 3F (0x90):
+    RB 53937;
+    Y 53125
+Difference found for pointer_wild_data on Pokémon Tower 4F (0x91):
+    RB 53959;
+    Y 53147
+Difference found for pointer_wild_data on Pokémon Tower 5F (0x92):
+    RB 53981;
+    Y 53169
+Difference found for pointer_wild_data on Pokémon Tower 6F (0x93):
+    RB 54003;
+    Y 53191
+Difference found for pointer_wild_data on Pokémon Tower 7F (0x94):
+    RB 54025;
+    Y 53213
+Difference found for pointer_wild_data on Lavender Mr. Fuji's House (0x95):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Lavender Poké Mart (0x96):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Lavender House SW (0x97):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Fuchsia Poké Mart (0x98):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Fuchsia House SW (0x99):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Fuchsia Pokémon Center (0x9a):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Fuchsia Warden's House (0x9b):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Safari Zone Entrance (0x9c):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Fuchsia Gym (0x9d):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Safari Zone Meeting Room (0x9e):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Seafoam Islands B1 (0x9f):
+    RB 54311;
+    Y 53541
+Difference found for pointer_wild_data on Seafoam Islands B2 (0xa0):
+    RB 54333;
+    Y 53563
+Difference found for pointer_wild_data on Seafoam Islands B3 (0xa1):
+    RB 54355;
+    Y 53585
+Difference found for pointer_wild_data on Seafoam Islands B4 (0xa2):
+    RB 54377;
+    Y 53627
+Difference found for pointer_wild_data on Vermilion Fishing Guru's House (0xa3):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Fuchsia Fishing Guru's Older Brother's House (0xa4):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Pokémon Mansion 1F (0xa5):
+    RB 54399;
+    Y 53669
+Difference found for pointer_wild_data on Cinnabar Gym (0xa6):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cinnabar Pokémon Lab Entrance (0xa7):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cinnabar Pokémon Lab Meeting Room (0xa8):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cinnabar Pokémon Lab R&D Room (0xa9):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cinnabar Pokémon Lab Testing Room (0xaa):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cinnabar Pokémon Center (0xab):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Cinnabar Poké Mart (0xac):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Indigo Plateau Lobby (0xae):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Saffron Copycat's House 1F (0xaf):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Saffron Copycat's House 2F (0xb0):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Saffron Fighting Dojo (0xb1):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Saffron Gym (0xb2):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Saffron House NW (0xb3):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Saffron Poké Mart (0xb4):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Silph Co 1F (0xb5):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Saffron Pokémon Center (0xb6):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Saffron Mr. Psychic's House (0xb7):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 15 Gate 1F (0xb8):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 15 Gate 2F (0xb9):
+    RB 53469;
+    Y 52617
+Difference found for pointer_wild_data on Route 16 Gate 1F (0xba):
+    RB 53469;
+    Y 52617

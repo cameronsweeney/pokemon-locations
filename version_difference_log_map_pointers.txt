@@ -1,0 +1,567 @@
+Difference found for pointer_map_header on Pewter City (0x2):
+    RB 25265492;
+    Y 25265498
+Difference found for pointer_map_header on Cerulean City (0x3):
+    RB 71403342;
+    Y 71403348
+Difference found for pointer_map_header on Vermilion City (0x5):
+    RB 25266584;
+    Y 25266590
+Difference found for pointer_map_header on Fuchsia City (0x7):
+    RB 29461415;
+    Y 29461427
+Difference found for pointer_map_header on Indigo Plateau (0x9):
+    RB 84216094;
+    Y 84216100
+Difference found for pointer_map_header on Saffron City (0xa):
+    RB 4524452;
+    Y 4524458
+Difference found for pointer_map_header on Route 3 (0xe):
+    RB 88424934;
+    Y 88424942
+Difference found for pointer_map_header on Route 4 (0xf):
+    RB 88425360;
+    Y 88425368
+Difference found for pointer_map_header on Route 5 (0x10):
+    RB 92620161;
+    Y 92620169
+Difference found for pointer_map_header on Route 9 (0x14):
+    RB 92620422;
+    Y 92620430
+Difference found for pointer_map_header on Route 13 (0x18):
+    RB 88426508;
+    Y 88426516
+Difference found for pointer_map_header on Route 14 (0x19):
+    RB 92621209;
+    Y 92621217
+Difference found for pointer_map_header on Route 17 (0x1c):
+    RB 92621600;
+    Y 92621608
+Difference found for pointer_map_header on Route 19 (0x1e):
+    RB 84233848;
+    Y 84233856
+Difference found for pointer_map_header on Route 21 (0x20):
+    RB 84234239;
+    Y 84234255
+Difference found for pointer_map_header on Route 25 (0x24):
+    RB 75827099;
+    Y 75827105
+Difference found for pointer_map_header on Pallet Red's House 1F (0x25):
+    RB 96764252;
+    Y 96764150
+Difference found for pointer_map_header on Pallet Blue's House (0x27):
+    RB 29465391;
+    Y 29465647
+Difference found for pointer_map_header on Pallet Professor Oak's Laboratory (0x28):
+    RB 71420674;
+    Y 71418758
+Difference found for pointer_map_header on Viridian Poké Mart (0x2a):
+    RB 29480034;
+    Y 29477998
+Difference found for pointer_map_header on Viridian Trainers' School (0x2b):
+    RB 29480256;
+    Y 29478253
+Difference found for pointer_map_header on Viridian House (0x2c):
+    RB 121755005;
+    Y 121753030
+3-way difference found for pointer_map_header on Viridian Gym (0x2d):
+    R 29837463;
+    B 29837464;
+    Y 29835476
+Difference found for pointer_map_header on Route 2 Diglett's Cave Entrance (0x2e):
+    RB 96591524;
+    Y 96589742
+Difference found for pointer_map_header on Viridian Forest North Gate (0x2f):
+    RB 29742459;
+    Y 29742213
+Difference found for pointer_map_header on Route 2 House (0x30):
+    RB 96591585;
+    Y 96589803
+Difference found for pointer_map_header on Route 2 Gate (0x31):
+    RB 96851400;
+    Y 96851154
+Difference found for pointer_map_header on Viridian Forest South Gate (0x32):
+    RB 101045840;
+    Y 101045594
+Difference found for pointer_map_header on Viridian Forest (0x33):
+    RB 96866561;
+    Y 96866541
+Difference found for pointer_map_header on Pewter Museum 1F (0x34):
+    RB 96846059;
+    Y 96846051
+Difference found for pointer_map_header on Pewter Museum 2F (0x35):
+    RB 96846603;
+    Y 96846260
+Difference found for pointer_map_header on Pewter Gym (0x36):
+    RB 29737851;
+    Y 29737559
+Difference found for pointer_map_header on Pewter House NE (0x37):
+    RB 121755111;
+    Y 121753136
+3-way difference found for pointer_map_header on Pewter Poké Mart (0x38):
+    R 29838497;
+    B 29838498;
+    Y 29836510
+Difference found for pointer_map_header on Pewter House SW (0x39):
+    RB 96589372;
+    Y 96587398
+Difference found for pointer_map_header on Pewter Pokémon Center (0x3a):
+    RB 75875707;
+    Y 75875438
+Difference found for pointer_map_header on Mt. Moon 1F (0x3b):
+    RB 84187580;
+    Y 84187475
+Difference found for pointer_map_header on Mt. Moon B1 (0x3c):
+    RB 75831862;
+    Y 75831928
+Difference found for pointer_map_header on Mt. Moon B2 (0x3d):
+    RB 29662463;
+    Y 29662334
+Difference found for pointer_map_header on Cerulean House (Trashed) (0x3e):
+    RB 29480569;
+    Y 29478595
+Difference found for pointer_map_header on Cerulean House (Trade) (0x3f):
+    RB 96589546;
+    Y 96587572
+Difference found for pointer_map_header on Cerulean Pokémon Center (0x40):
+    RB 96847417;
+    Y 96847093
+Difference found for pointer_map_header on Cerulean Gym (0x41):
+    RB 29738663;
+    Y 29738359
+Difference found for pointer_map_header on Cerulean Bike Shop (0x42):
+    RB 96589616;
+    Y 96587832
+Difference found for pointer_map_header on Cerulean Poké Mart (0x43):
+    RB 75876489;
+    Y 75876183
+Difference found for pointer_map_header on Mt. Moon Pokémon Center (0x44):
+    RB 29659843;
+    Y 29659817
+Difference found for pointer_map_header on Route 5 Gate (0x46):
+    RB 96591655;
+    Y 96589873
+Difference found for pointer_map_header on Route 5 Underground Path Entrance (0x47):
+    RB 88463005;
+    Y 88462760
+Difference found for pointer_map_header on Route 5 Day Care (0x48):
+    RB 29712963;
+    Y 29712947
+Difference found for pointer_map_header on Route 6 Gate (0x49):
+    RB 96591921;
+    Y 96590139
+Difference found for pointer_map_header on Route 6 Underground Path Entrance (0x4a):
+    RB 96851683;
+    Y 96851438
+Difference found for pointer_map_header on Route 7 Gate (0x4c):
+    RB 96592116;
+    Y 96590334
+Difference found for pointer_map_header on Route 7 Underground Path Entrance (0x4d):
+    RB 96851744;
+    Y 96851499
+Difference found for pointer_map_header on Route 8 Gate (0x4f):
+    RB 29483451;
+    Y 29481669
+Difference found for pointer_map_header on Route 8 Underground Path Entrance (0x50):
+    RB 75620989;
+    Y 75619207
+Difference found for pointer_map_header on Rock Tunnel Pokémon Center (0x51):
+    RB 71603118;
+    Y 71602992
+Difference found for pointer_map_header on Rock Tunnel 1F (0x52):
+    RB 29639888;
+    Y 29640049
+Difference found for pointer_map_header on Power Plant (0x53):
+    RB 75621050;
+    Y 75619268
+Difference found for pointer_map_header on Route 11 Gate 1F (0x54):
+    RB 29660160;
+    Y 29660054
+Difference found for pointer_map_header on Route 11 Diglett's Cave Entrance (0x55):
+    RB 75621806;
+    Y 75620024
+Difference found for pointer_map_header on Route 11 Gate 2F (0x56):
+    RB 75797576;
+    Y 75797470
+Difference found for pointer_map_header on Route 12 Gate 1F (0x57):
+    RB 29660408;
+    Y 29660303
+Difference found for pointer_map_header on Route 25 Bill's House (0x58):
+    RB 96593758;
+    Y 96591982
+Difference found for pointer_map_header on Vermilion Pokémon Center (0x59):
+    RB 92653955;
+    Y 92653669
+Difference found for pointer_map_header on Vermilion Pokémon Fan Club (0x5a):
+    RB 96836452;
+    Y 96836096
+Difference found for pointer_map_header on Vermilion Poké Mart (0x5b):
+    RB 96848341;
+    Y 96848075
+Difference found for pointer_map_header on Vermilion Gym (0x5c):
+    RB 29739546;
+    Y 29739280
+Difference found for pointer_map_header on Vermilion House SE (0x5d):
+    RB 29481712;
+    Y 29479928
+Difference found for pointer_map_header on Vermilion Dock (0x5e):
+    RB 100784966;
+    Y 100783182
+Difference found for pointer_map_header on S.S. Anne 1F Corridor (0x5f):
+    RB 101061209;
+    Y 101061284
+Difference found for pointer_map_header on S.S. Anne 2F Corridor (0x60):
+    RB 71701395;
+    Y 71701470
+Difference found for pointer_map_header on S.S. Anne Corridor to Deck (0x61):
+    RB 100944166;
+    Y 100944319
+Difference found for pointer_map_header on S.S. Anne B1 Corridor (0x62):
+    RB 101062178;
+    Y 101062224
+Difference found for pointer_map_header on S.S. Anne Deck (0x63):
+    RB 101062306;
+    Y 101062352
+Difference found for pointer_map_header on S.S. Anne Kitchen (0x64):
+    RB 101062567;
+    Y 101062613
+Difference found for pointer_map_header on S.S. Anne Captain's Room (0x65):
+    RB 101062793;
+    Y 101062839
+Difference found for pointer_map_header on S.S. Anne 1F Rooms (0x66):
+    RB 101063018;
+    Y 101063059
+Difference found for pointer_map_header on S.S. Anne 2F Rooms (0x67):
+    RB 101063487;
+    Y 101063528
+Difference found for pointer_map_header on S.S. Anne B1 Rooms (0x68):
+    RB 122035529;
+    Y 122035552
+Difference found for pointer_map_header on Victory Road 1F (0x6c):
+    RB 122018302;
+    Y 122018057
+Difference found for pointer_map_header on Indigo Plateau Lance's Room (0x71):
+    RB 122004130;
+    Y 122004029
+Difference found for pointer_map_header on Indigo Plateau Hall of Fame Room (0x76):
+    RB 101033106;
+    Y 101033005
+Difference found for pointer_map_header on Underground Path (N/S) (0x77):
+    RB 122035994;
+    Y 122036017
+3-way difference found for pointer_map_header on Indigo Plateau Champion's Room (0x78):
+    R 101146385;
+    B 101146386;
+    Y 101144480
+Difference found for pointer_map_header on Underground Path (W/E) (0x79):
+    RB 101064510;
+    Y 71704405
+Difference found for pointer_map_header on Celadon Department Store 1F (0x7a):
+    RB 88477562;
+    Y 88359607
+Difference found for pointer_map_header on Celadon Department Store 2F (0x7b):
+    RB 75849961;
+    Y 75849945
+Difference found for pointer_map_header on Celadon Department Store 3F (0x7c):
+    RB 75792921;
+    Y 75792727
+Difference found for pointer_map_header on Celadon Department Store 4F (0x7d):
+    RB 75793226;
+    Y 75792977
+Difference found for pointer_map_header on Celadon Department Store Roof (0x7e):
+    RB 75793353;
+    Y 75793104
+Difference found for pointer_map_header on Celadon Department Store Elevator (0x7f):
+    RB 75793908;
+    Y 75793663
+Difference found for pointer_map_header on Celadon Mansion 1F (0x80):
+    RB 75794056;
+    Y 75793811
+Difference found for pointer_map_header on Celadon Mansion 2F (0x81):
+    RB 75794222;
+    Y 75794010
+Difference found for pointer_map_header on Celadon Mansion 3F (0x82):
+    RB 75794308;
+    Y 75794096
+Difference found for pointer_map_header on Celadon Mansion Rooftop (0x83):
+    RB 29657183;
+    Y 29657185
+Difference found for pointer_map_header on Celadon Mansion Rooftop Room (0x84):
+    RB 75619630;
+    Y 75617846
+Difference found for pointer_map_header on Celadon Pokémon Center (0x85):
+    RB 75794604;
+    Y 75794607
+Difference found for pointer_map_header on Celadon Gym (0x86):
+    RB 75794686;
+    Y 75794709
+Difference found for pointer_map_header on Celadon Game Corner (0x87):
+    RB 75795377;
+    Y 75795400
+Difference found for pointer_map_header on Celadon Department Store 5F (0x88):
+    RB 75796573;
+    Y 75796607
+Difference found for pointer_map_header on Celadon Game Corner Prize Exchange (0x89):
+    RB 75796708;
+    Y 75796743
+Difference found for pointer_map_header on Celadon Diner (0x8a):
+    RB 75796805;
+    Y 75796840
+Difference found for pointer_map_header on Celadon House (0x8b):
+    RB 75796994;
+    Y 75796968
+Difference found for pointer_map_header on Celadon Hotel (0x8c):
+    RB 96768605;
+    Y 96768579
+Difference found for pointer_map_header on Lavender Pokémon Center (0x8d):
+    RB 101042382;
+    Y 101042076
+Difference found for pointer_map_header on Pokémon Tower 2F (0x8f):
+    RB 101057766;
+    Y 101057767
+Difference found for pointer_map_header on Pokémon Tower 3F (0x90):
+    RB 101058240;
+    Y 101058223
+Difference found for pointer_map_header on Pokémon Tower 4F (0x91):
+    RB 101058538;
+    Y 101058521
+Difference found for pointer_map_header on Pokémon Tower 5F (0x92):
+    RB 101058854;
+    Y 101058837
+Difference found for pointer_map_header on Pokémon Tower 6F (0x93):
+    RB 101059299;
+    Y 101059282
+Difference found for pointer_map_header on Pokémon Tower 7F (0x94):
+    RB 29756665;
+    Y 29756648
+Difference found for pointer_map_header on Lavender Mr. Fuji's House (0x95):
+    RB 96589980;
+    Y 96588196
+Difference found for pointer_map_header on Lavender Poké Mart (0x96):
+    RB 29739296;
+    Y 29739010
+Difference found for pointer_map_header on Lavender House SW (0x97):
+    RB 29481378;
+    Y 29479594
+Difference found for pointer_map_header on Fuchsia Poké Mart (0x98):
+    RB 121757052;
+    Y 121755269
+3-way difference found for pointer_map_header on Fuchsia House SW (0x99):
+    R 122114060;
+    B 122114061;
+    Y 122112081
+3-way difference found for pointer_map_header on Fuchsia Pokémon Center (0x9a):
+    R 122114135;
+    B 122114136;
+    Y 122112156
+3-way difference found for pointer_map_header on Fuchsia Warden's House (0x9b):
+    R 122114217;
+    B 122114218;
+    Y 122112258
+3-way difference found for pointer_map_header on Safari Zone Entrance (0x9c):
+    R 122114497;
+    B 122114498;
+    Y 122112538
+3-way difference found for pointer_map_header on Fuchsia Gym (0x9d):
+    R 122115121;
+    B 122115122;
+    Y 122112985
+3-way difference found for pointer_map_header on Safari Zone Meeting Room (0x9e):
+    R 71784151;
+    B 71784152;
+    Y 71782015
+Difference found for pointer_map_header on Seafoam Islands B1 (0x9f):
+    RB 71590665;
+    Y 71591288
+Difference found for pointer_map_header on Seafoam Islands B2 (0xa0):
+    RB 71590981;
+    Y 71591604
+Difference found for pointer_map_header on Seafoam Islands B3 (0xa1):
+    RB 71591297;
+    Y 71591920
+Difference found for pointer_map_header on Seafoam Islands B4 (0xa2):
+    RB 88369037;
+    Y 88369660
+Difference found for pointer_map_header on Vermilion Fishing Guru's House (0xa3):
+    RB 88432740;
+    Y 88432724
+Difference found for pointer_map_header on Fuchsia Fishing Guru's Older Brother's House (0xa4):
+    RB 71655792;
+    Y 71655776
+Difference found for pointer_map_header on Pokémon Mansion 1F (0xa5):
+    RB 121914019;
+    Y 121914180
+3-way difference found for pointer_map_header on Cinnabar Gym (0xa6):
+    R 122115902;
+    B 122115903;
+    Y 122113766
+3-way difference found for pointer_map_header on Cinnabar Pokémon Lab Entrance (0xa7):
+    R 122116992;
+    B 122116993;
+    Y 122115067
+3-way difference found for pointer_map_header on Cinnabar Pokémon Lab Meeting Room (0xa8):
+    R 122117141;
+    B 122117142;
+    Y 122115216
+3-way difference found for pointer_map_header on Cinnabar Pokémon Lab R&D Room (0xa9):
+    R 122117243;
+    B 122117244;
+    Y 122115318
+3-way difference found for pointer_map_header on Cinnabar Pokémon Lab Testing Room (0xaa):
+    R 122117413;
+    B 122117414;
+    Y 122115488
+3-way difference found for pointer_map_header on Cinnabar Pokémon Center (0xab):
+    R 122117664;
+    B 122117665;
+    Y 122115739
+3-way difference found for pointer_map_header on Cinnabar Poké Mart (0xac):
+    R 122117746;
+    B 122117747;
+    Y 122115841
+Difference found for pointer_map_header on Indigo Plateau Lobby (0xae):
+    RB 121740367;
+    Y 121740613
+3-way difference found for pointer_map_header on Saffron Copycat's House 1F (0xaf):
+    R 96951991;
+    B 96951992;
+    Y 96950086
+Difference found for pointer_map_header on Saffron Copycat's House 2F (0xb0):
+    RB 96848997;
+    Y 96848731
+Difference found for pointer_map_header on Saffron Fighting Dojo (0xb1):
+    RB 96849233;
+    Y 96848967
+Difference found for pointer_map_header on Saffron Gym (0xb2):
+    RB 29741057;
+    Y 29740791
+Difference found for pointer_map_header on Saffron House NW (0xb3):
+    RB 96591313;
+    Y 96589531
+Difference found for pointer_map_header on Saffron Poké Mart (0xb4):
+    RB 96850941;
+    Y 96850675
+Difference found for pointer_map_header on Silph Co 1F (0xb5):
+    RB 96851010;
+    Y 96850744
+Difference found for pointer_map_header on Saffron Pokémon Center (0xb6):
+    RB 29742377;
+    Y 29742111
+Difference found for pointer_map_header on Saffron Mr. Psychic's House (0xb7):
+    RB 75619888;
+    Y 75618106
+Difference found for pointer_map_header on Route 15 Gate 1F (0xb8):
+    RB 75798006;
+    Y 75797901
+Difference found for pointer_map_header on Route 15 Gate 2F (0xb9):
+    RB 75798078;
+    Y 75797973
+Difference found for pointer_map_header on Route 16 Gate 1F (0xba):
+    RB 75798194;
+    Y 75798089
+Difference found for pointer_map_header on Route 16 Gate 2F (0xbb):
+    RB 29661183;
+    Y 29661078
+Difference found for pointer_map_header on Route 16 House (0xbc):
+    RB 88204780;
+    Y 88202998
+Difference found for pointer_map_header on Route 12 House (0xbd):
+    RB 75850867;
+    Y 75850917
+Difference found for pointer_map_header on Route 18 Gate 1F (0xbe):
+    RB 75798634;
+    Y 75798529
+Difference found for pointer_map_header on Route 18 Gate 2F (0xbf):
+    RB 71604585;
+    Y 71604480
+Difference found for pointer_map_header on Seafoam Islands 1F (0xc0):
+    RB 29640669;
+    Y 29640830
+5831185;
+    Y 75831244Difference found for pointer_map_header on Route 12 Gate 2F (0xc3):
+    RB 25466196;
+    Y 25466091Difference found for pointer_map_header on Vermilion House (Trade) (0xc4):
+    RB 100768774;
+    Y 100769029Difference found for pointer_map_header on Diglett's Cave (0xc5):
+    RB 71704418;
+    Y 71704441Difference found for pointer_map_header on Victory Road 3F (0xc6):
+    RB 71584116;
+    Y 71584269Difference found for pointer_map_header on Rocket Hideout B1 (0xc7):
+    RB 71584702;
+    Y 71584862Difference found for pointer_map_header on Rocket Hideout B2 (0xc8):
+    RB 71585307;
+    Y 71585467Difference found for pointer_map_header on Rocket Hideout B3 (0xc9):
+    RB 71586329;
+    Y 71586489Difference found for pointer_map_header on Rocket Hideout B4 (0xca):
+    RB 71586897;
+    Y 71587057Difference found for pointer_map_header on Rocket Hideout Elevator (0xcb):
+    RB 4478724;
+    Y 4479320Difference found for pointer_map_header on Silph Co. 2F (0xcf):
+    RB 92642533;
+    Y 92642432Difference found for pointer_map_header on Silph Co. 3F (0xd0):
+    RB 25534287;
+    Y 25534186Difference found for pointer_map_header on Silph Co. 4F (0xd1):
+    RB 25271551;
+    Y 25271817Difference found for pointer_map_header on Silph Co. 5F (0xd2):
+    RB 25272107;
+    Y 25272373Difference found for pointer_map_header on Silph Co. 6F (0xd3):
+    RB 83992989;
+    Y 83993255Difference found for pointer_map_header on Silph Co. 7F (0xd4):
+    RB 88415061;
+    Y 88415127Difference found for pointer_map_header on Silph Co. 8F (0xd5):
+    RB 84239608;
+    Y 84239658Difference found for pointer_map_header on Pokémon Mansion 2F (0xd6):
+    RB 84221900;
+    Y 84221941Difference found for pointer_map_header on Pokémon Mansion 3F (0xd7):
+    RB 84222434;
+    Y 84222475Difference found for pointer_map_header on Pokémon Mansion 4F (0xd8):
+    RB 71639981;
+    Y 71640022Difference found for pointer_map_header on Safari Zone East (0xd9):
+    RB 71587935;
+    Y 71588531Difference found for pointer_map_header on Safari Zone North (0xda):
+    RB 75782559;
+    Y 75783155Difference found for pointer_map_header on Safari Zone West (0xdb):
+    RB 71606697;
+    Y 71607130Difference found for pointer_map_header on Safari Zone Center (0xdc):
+    RB 71588774;
+    Y 71589370Difference found for pointer_map_header on Safari Zone Center Rest House (0xdd):
+    RB 75783393;
+    Y 75783989Difference found for pointer_map_header on Safari Zone Secret House (0xde):
+    RB 71607051;
+    Y 71607484Difference found for pointer_map_header on Safari Zone West Rest House (0xdf):
+    RB 71589150;
+    Y 71589746Difference found for pointer_map_header on Safari Zone East Rest House (0xe0):
+    RB 71589225;
+    Y 71589821Difference found for pointer_map_header on Safari Zone North Rest House (0xe1):
+    RB 71589300;
+    Y 71589896Difference found for pointer_map_header on Cerulean Cave 2F (0xe2):
+    RB 71589375;
+    Y 71589971Difference found for pointer_map_header on Cerulean Cave B1 (0xe3):
+    RB 121921252;
+    Y 1219218573-way difference found for pointer_map_header on Cerulean Cave 1F (0xe4):
+    R 29838592;
+    B 29838593;    Y 29836605Difference found for pointer_map_header on Lavender Name Rater's House (0xe5):
+    RB 121756166;
+    Y 1217543823-way difference found for pointer_map_header on Cerulean House (Badges) (0xe6):
+    R 4673021;
+    B 4673022;    Y 4671043Difference found for pointer_map_header on Rock Tunnel B1 (0xe8):
+    RB 96755679;
+    Y 96756302Difference found for pointer_map_header on Silph Co. 9F (0xe9):
+    RB 92657583;
+    Y 92657338Difference found for pointer_map_header on Silph Co. 10F (0xea):
+    RB 101032237;
+    Y 101032136Difference found for pointer_map_header on Silph Co. 11F (0xeb):
+    RB 71704814;
+    Y 71704837Difference found for pointer_map_header on Silph Co. Elevator (0xec):
+    RB 71587764;
+    Y 71588360Difference found for pointer_map_header on Battle Center (0xef):
+    RB 80018692;
+    Y 80019065Difference found for pointer_map_header on Trade Center (0xf0):
+    RB 71630193;
+    Y 716305663-way difference found for pointer_map_header on Indigo Plateau Lorelei's Room (0xf5):
+    R 122118511;
+    B 122118512;    Y 1221165913-way difference found for pointer_map_header on Indigo Plateau Bruno's Room (0xf6):
+    R 122118858;
+    B 122118859;    Y 1221169383-way difference found for pointer_map_header on Indigo Plateau Agatha's Room (0xf7):
+    R 260531233;
+    B 260531234;    Y 252140705

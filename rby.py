@@ -742,6 +742,10 @@ def construct_map_from_id(map_id, current_version):
     # set default fish_group to 0
     map_as_dict['fish_group'] = 0
     
+    map_as_dict['pkmn_fish_old'] = []
+    map_as_dict['pkmn_fish_good'] = []
+    map_as_dict['pkmn_fish_super'] = []
+    
     # time for fishing data - works one way in RB and another in Y
     # however, the same maps are fishable
     # I can check RB fish data for all 3 versions to see if the map is fishable
@@ -750,15 +754,15 @@ def construct_map_from_id(map_id, current_version):
         ###############################################################################
         ### source: https://sites.google.com/site/pokemonslots/gen-i/red?authuser=0 ###
         ###############################################################################
-        map_as_dict['pkmn_fish_old'] = [wild_pkmn('Magikarp', 5)]
-        map_as_dict['pkmn_fish_good'] = [wild_pkmn('Goldeen', 10), wild_pkmn('Poliwag', 10)]
+        map_as_dict['pkmn_fish_old'].append(wild_pkmn('Magikarp', 5))
+        map_as_dict['pkmn_fish_good'].append(wild_pkmn('Goldeen', 10), wild_pkmn('Poliwag', 10))
         # look up fishing group (for RB, but I wanna have it there for all maps I create - anticipating a versions merge)
         # also there will be a variable assignment error in rby_map.__init__() if I only do it for RB maps
         map_as_dict['fish_group'] = rb_fish_groups_by_map[map_id]
         if current_version == 'yellow':
-            map_as_dict['pkmn_fish_super'] = y_super_rod_data_by_map[map_id]
+            map_as_dict['pkmn_fish_super'].append(copy.deepcopy(y_super_rod_data_by_map[map_id]))
         else: # Red or Blue version; need to look up fishing group for the map
-            map_as_dict['pkmn_fish_super'] = copy.deepcopy(rb_super_rod_data_by_group[map_as_dict['fish_group']])
+            map_as_dict['pkmn_fish_super'].append(copy.deepcopy(rb_super_rod_data_by_group[map_as_dict['fish_group']]))
 
     return map_as_dict
 # end def construct_map_from_id(map_id)
